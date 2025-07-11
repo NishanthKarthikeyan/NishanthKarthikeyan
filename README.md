@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning B.Tech
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me @__.black._.lover.0__
+- 📫 How to reach me @__.black._.lover.0_
 
 
 <!---
